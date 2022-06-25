@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\repos\github\Dragonrun1\dragon_mobile\solid_state_relays\solid_state_relays\solid_state_relays.kicad_sch</source>
+    <date>08/06/2022 19:16:35</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Solid State Relays 24V</title>
+        <company/>
+        <rev>0.0.3</rev>
+        <date>2022-06-08</date>
+        <source>solid_state_relays.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="creativecommons.org/licenses/by/4.0/"/>
+        <comment number="3" value="License: CC By 4.0"/>
+        <comment number="4" value="Author: Michael Cummings"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="FAN1">
+      <value>Fan_PC_Chassis</value>
+      <footprint>Connector:FanPinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>http://www.hardwarecanucks.com/forum/attachments/new-builds/16287d1330775095-help-chassis-power-fan-connectors-motherboard-asus_p8z68.jpg</datasheet>
+      <libsource lib="Motor" part="Fan_PC_Chassis" description="PC chassis fan, tacho output, 3-pin connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>605847a9-ad9f-47d7-8c7c-fdbc0afa4e6c</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cbb4b03-0d0c-41f2-b3e9-01320b3b0e02</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d251907e-e2b6-4fd8-b0fb-f83c315154b2</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67be9f82-1a26-4dba-ad85-47e94416131a</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35ff12db-adc9-4efc-bfbc-c2cb1d6d5d7d</tstamps>
+    </comp>
+    <comp ref="HC1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3x6.2mm_M4_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935b0748-84fb-42a0-85b3-4b2c4fff469c</tstamps>
+    </comp>
+    <comp ref="HQ1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61e4579b-f0f6-437a-8ddb-389cbc19b058</tstamps>
+    </comp>
+    <comp ref="HQ2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>357b13f2-434c-47dc-ab1e-dd4a1553646b</tstamps>
+    </comp>
+    <comp ref="HQ3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18c090d3-fa19-4047-b881-b27e0baa8e8b</tstamps>
+    </comp>
+    <comp ref="HQ4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dfdf70e-8d03-4c48-af62-9d0f68e90b07</tstamps>
+    </comp>
+    <comp ref="HQ5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f677da37-3d37-470d-bd3e-5192aefc63d1</tstamps>
+    </comp>
+    <comp ref="HQ6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>727583de-abbd-48b1-b588-63ad17fff849</tstamps>
+    </comp>
+    <comp ref="HQ7">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a0b94d-82a1-4607-adca-5e12dad9679e</tstamps>
+    </comp>
+    <comp ref="HQ8">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f68fe1a8-79bf-4466-b693-64c18304e282</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cd362ad-55a3-4df4-bde6-71e427472437</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a031f866-5243-4a6a-acdb-aca332c0abcc</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7be2ee31-0d16-4bfe-97f3-a45e72a8cdce</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a045ca-2825-43b0-a2f3-871db979aba8</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61ca05af-21f6-48d2-aa0a-6a094b8b2f4a</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be8047bb-4770-456f-b59d-89f69e7b181a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7df6179c-2a7b-40d7-9c59-cec7b3706e4f</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>1190297</value>
+      <footprint>1190297</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</datasheet>
+      <fields>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1190297" description="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Description" value="2 Position Wire to Board Terminal Block Horizontal with Board 0.197&quot; (5.00mm) Through Hole"/>
+      <property name="Height" value="16.64"/>
+      <property name="Mouser Part Number" value="651-1190297"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1190297"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e102f02d-a59a-423a-9489-bbb5f988dda5</tstamps>
+    </comp>
+    <comp ref="JCNTL1">
+      <value>Conn_02x06_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x06_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3eac31-495f-413c-b3b9-45b8503ab90a</tstamps>
+    </comp>
+    <comp ref="JPWR1">
+      <value>XT60-M</value>
+      <footprint>AMASS_XT60-M</footprint>
+      <fields>
+        <field name="MANUFACTURER">AMASS</field>
+        <field name="PARTREV">V1.2</field>
+      </fields>
+      <libsource lib="Connector_Amass_XT" part="XT60-M" description=""/>
+      <property name="PARTREV" value="V1.2"/>
+      <property name="MANUFACTURER" value="AMASS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b32d4a-d773-475c-bc43-9e86d42bf61a</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_5" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5417250a-5a4f-4352-bdee-0bef4ecbcdcb</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_7" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>700303f5-9e46-4aa4-8309-03a2e327ab81</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_8" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad9bbe2c-7ae1-4a81-a110-aab5ea64aa22</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="LTST-C170KRKT" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a678e75f-4620-49af-8d51-bb1f9e57a58a</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_4" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33da58ce-ad73-45b7-ae5e-c1e5fbd1d424</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_1" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>832a5b46-16bf-4870-89a6-73486b7a65c9</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_3" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30f5c100-b3d2-460e-86e0-f63dccc935e6</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_2" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b3f6ac1-c9a5-4356-a2a9-6834e4d8e1b5</tstamps>
+    </comp>
+    <comp ref="LEDP1">
+      <value>(red)</value>
+      <footprint>SamacSys_Parts:LEDC2012X120N</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</datasheet>
+      <fields>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LTST-C170KRKT_6" description="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Description" value="Standard LEDs - SMD Red Clear 631nm"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="859-LTST-C170KRKT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54bad98d-56d5-4ffb-b546-147a8b698e1f</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bbd3b22-5cf6-47d1-ab8c-da8e17c71421</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6897796b-9838-45d8-91d5-b787f8c94f2e</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ea7ddb5-315e-41da-a876-aff75d3ce1c7</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>071663cb-c549-4097-a570-5635f063cce4</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>837a152d-468d-4159-ada4-0610d09423d5</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aa501dc-0fd1-46ee-8155-8dce6e130059</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71967dac-0f14-4534-99bb-557805cb0feb</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>IRF4905PBF</value>
+      <footprint>TO254P469X1042X1967-3P</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</datasheet>
+      <fields>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
+      <property name="Height" value="4.69"/>
+      <property name="Mouser Part Number" value="942-IRF4905PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRF4905PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e79d665-87c6-4136-b57f-8ad720058888</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f69070bc-e36a-4144-9e39-c46b7444dca3</tstamps>
+    </comp>
+    <comp ref="RL1">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>533e81ce-b727-401e-b803-c4209bfb6a08</tstamps>
+    </comp>
+    <comp ref="RL2">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d97ed0ff-776a-472a-8be6-fcd0b2e6006b</tstamps>
+    </comp>
+    <comp ref="RL3">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0aeba63-70e5-489c-944d-0fd3c756a82c</tstamps>
+    </comp>
+    <comp ref="RL4">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c13916af-1607-4549-93df-dcb585aca84e</tstamps>
+    </comp>
+    <comp ref="RL5">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8745cbb4-71d1-4cba-ac1d-e9581709e569</tstamps>
+    </comp>
+    <comp ref="RL6">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6479309e-f2ba-4691-8597-cfc14a401393</tstamps>
+    </comp>
+    <comp ref="RL7">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a72c69df-69d6-4142-af8e-840732d496e1</tstamps>
+    </comp>
+    <comp ref="RL8">
+      <value>1.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3929ee38-d8a5-43e1-84be-4d24887746e9</tstamps>
+    </comp>
+    <comp ref="RP1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e4a5bde-cdea-4fb9-9b8c-6391a154eb82</tstamps>
+    </comp>
+    <comp ref="RP2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ad12fa7-3840-455b-bb3b-ec4bdcf382b5</tstamps>
+    </comp>
+    <comp ref="RP3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc733b48-01b3-460c-bb20-37c1f1268fbb</tstamps>
+    </comp>
+    <comp ref="RP4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a40f0865-443f-4f79-bc16-628d9f9915d2</tstamps>
+    </comp>
+    <comp ref="RP5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cce2a2a3-e86c-4552-beea-cf5fc9d557bd</tstamps>
+    </comp>
+    <comp ref="RP6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>621b89bd-a3ca-474d-8acb-0699d77633a3</tstamps>
+    </comp>
+    <comp ref="RP7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f3a01fb-e210-4818-a3a3-5e628dbed8d7</tstamps>
+    </comp>
+    <comp ref="RP8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba1dcda-1059-48a9-a0ac-456adcd787b3</tstamps>
+    </comp>
+    <comp ref="TVS1">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4203147-0f5f-433f-bda6-54f693876349</tstamps>
+    </comp>
+    <comp ref="TVS2">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd361456-258e-49bd-be04-ba4297f6477a</tstamps>
+    </comp>
+    <comp ref="TVS3">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b807d9c-0521-4979-8d6d-9bae9913c98f</tstamps>
+    </comp>
+    <comp ref="TVS4">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87a62987-3f44-4df6-9d22-7721589a4d57</tstamps>
+    </comp>
+    <comp ref="TVS5">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14c93647-53f7-4f0c-98c2-995021d59533</tstamps>
+    </comp>
+    <comp ref="TVS6">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b02cabe-45bb-45b2-bc73-a7047563bb79</tstamps>
+    </comp>
+    <comp ref="TVS7">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>506f04a9-3b54-42ce-b914-a4e0794a5b06</tstamps>
+    </comp>
+    <comp ref="TVS8">
+      <value>SM6T30A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <libsource lib="Diode" part="SM6T30A" description="600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c338115-d33f-47f1-99ce-d562019e61b2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="LTST-C170KRKT_1">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_1</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_2">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_2</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_3">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_3</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_4">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_4</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_5">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_5</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_6">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_6</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_7">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_7</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LTST-C170KRKT_8">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT_8</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Amass_XT" part="XT60-M">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">XT60-M</field>
+        <field name="Footprint">AMASS_XT60-M</field>
+        <field name="MANUFACTURER">AMASS</field>
+        <field name="PARTREV">V1.2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="SM6T30A">
+      <description>600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA</description>
+      <docs>https://www.st.com/resource/en/datasheet/sm6t.pdf</docs>
+      <footprints>
+        <fp>D*SMB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SM6T30A</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/sm6t.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Fan_PC_Chassis">
+      <description>PC chassis fan, tacho output, 3-pin connector</description>
+      <docs>http://www.hardwarecanucks.com/forum/attachments/new-builds/16287d1330775095-help-chassis-power-fan-connectors-motherboard-asus_p8z68.jpg</docs>
+      <footprints>
+        <fp>FanPinHeader*P2.54mm*Vertical*</fp>
+        <fp>PinHeader*P2.54mm*Vertical*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Fan_PC_Chassis</field>
+        <field name="Datasheet">http://www.hardwarecanucks.com/forum/attachments/new-builds/16287d1330775095-help-chassis-power-fan-connectors-motherboard-asus_p8z68.jpg</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Tacho" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+        <pin num="3" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="1190297">
+      <description>2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</description>
+      <docs>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1190297</field>
+        <field name="Footprint">1190297</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</field>
+        <field name="Description">2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</field>
+        <field name="Height">16.64</field>
+        <field name="Mouser Part Number">651-1190297</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1190297</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="IRF4905PBF">
+      <description>P-channel MOSFET,IRF4905 64A 55V</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF4905PBF</field>
+        <field name="Footprint">TO254P469X1042X1967-3P</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</field>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="LTST-C170KRKT">
+      <description>Standard LEDs - SMD Red Clear 631nm</description>
+      <docs>https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LTST-C170KRKT</field>
+        <field name="Footprint">SamacSys_Parts:LEDC2012X120N</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/239/Lite-On-LTST-C170KRKT-1175359.pdf</field>
+        <field name="Description">Standard LEDs - SMD Red Clear 631nm</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">859-LTST-C170KRKT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTST-C170KRKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Amass_XT">
+      <uri>C:/Users/mgcum/Documents/KiCad/6.0/symbols/Connector_Amass_XT.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/mgcum/Documents/Library_loader/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+BATT">
+      <node ref="FAN1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="HQ1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="HQ8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JCNTL1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JCNTL1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JPWR1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pintype="passive"/>
+      <node ref="Q7" pin="2" pintype="passive"/>
+      <node ref="Q8" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="RP1" pin="1" pintype="passive"/>
+      <node ref="RP2" pin="1" pintype="passive"/>
+      <node ref="RP3" pin="1" pintype="passive"/>
+      <node ref="RP4" pin="1" pintype="passive"/>
+      <node ref="RP5" pin="1" pintype="passive"/>
+      <node ref="RP6" pin="1" pintype="passive"/>
+      <node ref="RP7" pin="1" pintype="passive"/>
+      <node ref="RP8" pin="1" pintype="passive"/>
+      <node ref="TVS1" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS3" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS4" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS5" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS6" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS7" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="TVS8" pin="1" pinfunction="A1" pintype="passive"/>
+    </net>
+    <net code="2" name="/a1">
+      <node ref="JCNTL1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="RP1" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/a2">
+      <node ref="JCNTL1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="RP2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/a3">
+      <node ref="JCNTL1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="RP3" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/a4">
+      <node ref="JCNTL1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q4" pin="1" pintype="passive"/>
+      <node ref="RP4" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/a5">
+      <node ref="JCNTL1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="Q5" pin="1" pintype="passive"/>
+      <node ref="RP5" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/a6">
+      <node ref="JCNTL1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="Q6" pin="1" pintype="passive"/>
+      <node ref="RP6" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/a7">
+      <node ref="JCNTL1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Q7" pin="1" pintype="passive"/>
+      <node ref="RP7" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/a8">
+      <node ref="JCNTL1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="Q8" pin="1" pintype="passive"/>
+      <node ref="RP8" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="GNDPWR">
+      <node ref="FAN1" pin="3" pinfunction="-" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="JCNTL1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="JCNTL1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="JPWR1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="LED1" pin="1" pintype="passive"/>
+      <node ref="LED2" pin="1" pintype="passive"/>
+      <node ref="LED3" pin="1" pintype="passive"/>
+      <node ref="LED4" pin="1" pintype="passive"/>
+      <node ref="LED5" pin="1" pintype="passive"/>
+      <node ref="LED6" pin="1" pintype="passive"/>
+      <node ref="LED7" pin="1" pintype="passive"/>
+      <node ref="LED8" pin="1" pintype="passive"/>
+      <node ref="LEDP1" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pintype="passive"/>
+      <node ref="RL1" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pintype="passive"/>
+      <node ref="RL2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pintype="passive"/>
+      <node ref="RL3" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pintype="passive"/>
+      <node ref="RL4" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2" pintype="passive"/>
+      <node ref="RL5" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(LED6-Pad2)">
+      <node ref="LED6" pin="2" pintype="passive"/>
+      <node ref="RL6" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(LED7-Pad2)">
+      <node ref="LED7" pin="2" pintype="passive"/>
+      <node ref="RL7" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(LED8-Pad2)">
+      <node ref="LED8" pin="2" pintype="passive"/>
+      <node ref="RL8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(LEDP1-Pad2)">
+      <node ref="LEDP1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="OUT1">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="RL1" pin="2" pintype="passive"/>
+      <node ref="TVS1" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="22" name="OUT2">
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="RL2" pin="2" pintype="passive"/>
+      <node ref="TVS2" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="23" name="OUT3">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="RL3" pin="2" pintype="passive"/>
+      <node ref="TVS3" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="24" name="OUT4">
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q4" pin="3" pintype="passive"/>
+      <node ref="RL4" pin="2" pintype="passive"/>
+      <node ref="TVS4" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="25" name="OUT5">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q5" pin="3" pintype="passive"/>
+      <node ref="RL5" pin="2" pintype="passive"/>
+      <node ref="TVS5" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="26" name="OUT6">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q6" pin="3" pintype="passive"/>
+      <node ref="RL6" pin="2" pintype="passive"/>
+      <node ref="TVS6" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="27" name="OUT7">
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q7" pin="3" pintype="passive"/>
+      <node ref="RL7" pin="2" pintype="passive"/>
+      <node ref="TVS7" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="28" name="OUT8">
+      <node ref="J8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q8" pin="3" pintype="passive"/>
+      <node ref="RL8" pin="2" pintype="passive"/>
+      <node ref="TVS8" pin="2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(FAN1-Pad1)">
+      <node ref="FAN1" pin="1" pinfunction="Tacho" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
