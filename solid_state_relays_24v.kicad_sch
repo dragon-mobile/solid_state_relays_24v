@@ -6,8 +6,8 @@
 
   (title_block
     (title "Solid State Relays 24V")
-    (date "2022-06-19")
-    (rev "0.0.5")
+    (date "2022-06-25")
+    (rev "0.0.6")
     (comment 2 "creativecommons.org/licenses/by/4.0/")
     (comment 3 "License: CC By 4.0")
     (comment 4 "Author: Michael Cummings")
