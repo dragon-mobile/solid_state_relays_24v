@@ -15,8 +15,8 @@
   )
 
   (layers
-    (0 "F.Cu" signal)
-    (31 "B.Cu" signal)
+    (0 "F.Cu" mixed)
+    (31 "B.Cu" mixed)
     (32 "B.Adhes" user "B.Adhesive")
     (33 "F.Adhes" user "F.Adhesive")
     (34 "B.Paste" user)
@@ -48,15 +48,15 @@
 
   (setup
     (stackup
-      (layer "F.SilkS" (type "Top Silk Screen") (color "White"))
+      (layer "F.SilkS" (type "Top Silk Screen") (color "White") (material "Liquid Photo"))
       (layer "F.Paste" (type "Top Solder Paste"))
-      (layer "F.Mask" (type "Top Solder Mask") (color "Red") (thickness 0.01))
+      (layer "F.Mask" (type "Top Solder Mask") (color "Red") (thickness 0.01) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
       (layer "F.Cu" (type "copper") (thickness 0.07))
       (layer "dielectric 1" (type "core") (thickness 1.6) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "B.Cu" (type "copper") (thickness 0.07))
-      (layer "B.Mask" (type "Bottom Solder Mask") (color "Red") (thickness 0.01))
+      (layer "B.Mask" (type "Bottom Solder Mask") (color "Red") (thickness 0.01) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
       (layer "B.Paste" (type "Bottom Solder Paste"))
-      (layer "B.SilkS" (type "Bottom Silk Screen") (color "White"))
+      (layer "B.SilkS" (type "Bottom Silk Screen") (color "White") (material "Liquid Photo"))
       (copper_finish "HAL lead-free")
       (dielectric_constraints no)
     )
@@ -5832,6 +5832,9 @@
   )
 
   (gr_rect (start 50 50) (end 170 140) (layer "Edge.Cuts") (width 0.001) (fill none) (tstamp dc49ffa8-8ef9-49d4-8b27-188f0a573027))
+  (gr_text "Rev: 0.0.6" (at 110 101) (layer "F.SilkS") (tstamp 279679c3-4931-41db-95a2-f5b695921bce)
+    (effects (font (size 2 2) (thickness 0.5)))
+  )
   (gr_text "1.7600 mm" (at 144.348571 179.13) (layer "User.2") (tstamp 09c71a68-d6a8-4d2e-8aaa-e5230dc9e369)
     (effects (font (size 1.5 1.5) (thickness 0.2)) (justify left top))
   )
@@ -21548,7 +21551,6 @@
         (xy 59.501259 103.176666)
         (xy 59.501641 103.176666)
         (xy 59.503356 109.703866)
-        (xy 59.503371 109.762006)
         (xy 59.5037 111.010908)
         (xy 59.503754 111.218399)
         (xy 59.518883 111.341015)
@@ -23290,6 +23292,7 @@
         (xy 59.510026 76.018211)
         (xy 59.494533 76.126166)
         (xy 59.494875 77.4293)
+        (xy 59.495613 80.237994)
         (xy 59.497344 86.823666)
         (xy 59.497185 86.823666)
         (xy 59.481158 86.891593)

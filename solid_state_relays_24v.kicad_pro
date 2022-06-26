@@ -3,11 +3,11 @@
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
-        "copper_line_width": 0.19999999999999998,
+        "copper_line_width": 0.15,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
+        "copper_text_thickness": 0.15,
         "copper_text_upright": false,
         "courtyard_line_width": 0.049999999999999996,
         "dimension_precision": 4,
@@ -20,16 +20,16 @@
           "text_position": 0,
           "units_format": 1
         },
-        "fab_line_width": 0.09999999999999999,
+        "fab_line_width": 0.15,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
+        "fab_text_size_h": 1.5,
+        "fab_text_size_v": 1.5,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
         "other_line_width": 0.15,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
+        "other_text_size_h": 1.5,
+        "other_text_size_v": 1.5,
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
@@ -39,8 +39,8 @@
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 1.5,
+        "silk_text_size_v": 1.5,
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
@@ -112,7 +112,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.15,
+        "min_via_annular_width": 0.19999999999999998,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "solid_state_relays.kicad_pro",
+    "filename": "solid_state_relays_24v.kicad_pro",
     "version": 1
   },
   "net_settings": {
