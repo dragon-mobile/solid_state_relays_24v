@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.5
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -380,9 +380,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GND_PassThru",
-        "nets": [
-          "unconnected-(HC1-Pad1)"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -580,9 +578,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "LEDP1_CL",
-        "nets": [
-          "Net-(LEDP1-Pad2)"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,

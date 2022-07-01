@@ -4519,7 +4519,7 @@
   (symbol (lib_id "dragon_mobile:SM6T30AY") (at 40.894 30.48 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3e9feb08-284e-450e-b0f5-20bdc79d8989)
-    (property "Reference" "TVSPWR1" (id 0) (at 44.45 28.702 90))
+    (property "Reference" "TVSP1" (id 0) (at 44.45 28.702 90))
     (property "Value" "SM6T30AY" (id 1) (at 43.434 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -5379,7 +5379,7 @@
   (symbol (lib_id "dragon_mobile:LTST-C190KGKT") (at 45.72 38.1 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ab793da5-b061-43cb-877a-4a6d90ef81c7)
-    (property "Reference" "LEDPWR1" (id 0) (at 49.784 41.148 0))
+    (property "Reference" "LEDP1" (id 0) (at 49.784 41.148 0))
     (property "Value" "LTST-C190KGKT" (id 1) (at 48.2346 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6047,7 +6047,7 @@
       (reference "LED8") (unit 1) (value "LTST-C190KFKT") (footprint "dragon_mobile:LEDC1607X80N")
     )
     (path "/ab793da5-b061-43cb-877a-4a6d90ef81c7"
-      (reference "LEDPWR1") (unit 1) (value "LTST-C190KGKT") (footprint "dragon_mobile:LEDC1608X80N")
+      (reference "LEDP1") (unit 1) (value "LTST-C190KGKT") (footprint "dragon_mobile:LEDC1608X80N")
     )
     (path "/1bbd3b22-5cf6-47d1-ab8c-da8e17c71421"
       (reference "Q1") (unit 1) (value "IRF4905PBF") (footprint "dragon_mobile:TO254P469X1042X1967-3P")
@@ -6149,7 +6149,7 @@
       (reference "TVS8") (unit 1) (value "SM6T30AY") (footprint "dragon_mobile:SMBJ36CATR")
     )
     (path "/3e9feb08-284e-450e-b0f5-20bdc79d8989"
-      (reference "TVSPWR1") (unit 1) (value "SM6T30AY") (footprint "dragon_mobile:SMBJ36CATR")
+      (reference "TVSP1") (unit 1) (value "SM6T30AY") (footprint "dragon_mobile:SMBJ36CATR")
     )
   )
 )
