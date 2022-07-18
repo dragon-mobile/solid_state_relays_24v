@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>C:\repos\github\Dragonrun1\dragon_mobile\solid_state_relays\solid_state_relays_24v\solid_state_relays_24v.kicad_sch</source>
-    <date>01/07/2022 10:34:47</date>
+    <date>14/07/2022 08:57:42</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Solid State Relays 24V</title>
         <company/>
-        <rev>0.0.8</rev>
-        <date>2022-06-29</date>
+        <rev>0.0.10</rev>
+        <date>2022-07-13</date>
         <source>solid_state_relays_24v.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0/"/>
@@ -24,123 +24,6 @@
     </sheet>
   </design>
   <components>
-    <comp ref="H1">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3cbb4b03-0d0c-41f2-b3e9-01320b3b0e02</tstamps>
-    </comp>
-    <comp ref="H2">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d251907e-e2b6-4fd8-b0fb-f83c315154b2</tstamps>
-    </comp>
-    <comp ref="H3">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>67be9f82-1a26-4dba-ad85-47e94416131a</tstamps>
-    </comp>
-    <comp ref="H4">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>35ff12db-adc9-4efc-bfbc-c2cb1d6d5d7d</tstamps>
-    </comp>
-    <comp ref="HC1">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>935b0748-84fb-42a0-85b3-4b2c4fff469c</tstamps>
-    </comp>
-    <comp ref="HQ1">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>61e4579b-f0f6-437a-8ddb-389cbc19b058</tstamps>
-    </comp>
-    <comp ref="HQ2">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>357b13f2-434c-47dc-ab1e-dd4a1553646b</tstamps>
-    </comp>
-    <comp ref="HQ3">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>18c090d3-fa19-4047-b881-b27e0baa8e8b</tstamps>
-    </comp>
-    <comp ref="HQ4">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1dfdf70e-8d03-4c48-af62-9d0f68e90b07</tstamps>
-    </comp>
-    <comp ref="HQ5">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f677da37-3d37-470d-bd3e-5192aefc63d1</tstamps>
-    </comp>
-    <comp ref="HQ6">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>727583de-abbd-48b1-b588-63ad17fff849</tstamps>
-    </comp>
-    <comp ref="HQ7">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>90a0b94d-82a1-4607-adca-5e12dad9679e</tstamps>
-    </comp>
-    <comp ref="HQ8">
-      <value>HeatsinkHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f68fe1a8-79bf-4466-b693-64c18304e282</tstamps>
-    </comp>
     <comp ref="J1">
       <value>1190297</value>
       <footprint>dragon_mobile:1190297</footprint>
@@ -339,17 +222,41 @@
       <datasheet>www.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_pv_wtb.pdf</datasheet>
       <fields>
         <field name="MPN">78207-1012HLF</field>
-        <field name="Manufacturer">Amphenol FCI</field>
+        <field name="Manufacturer_Name">Amphenol FCI</field>
         <field name="Mouser Part Number">649-78207-112HLF</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="MPN" value="78207-1012HLF"/>
-      <property name="Manufacturer" value="Amphenol FCI"/>
       <property name="Mouser Part Number" value="649-78207-112HLF"/>
+      <property name="Manufacturer_Name" value="Amphenol FCI"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cb3eac31-495f-413c-b3b9-45b8503ab90a</tstamps>
+    </comp>
+    <comp ref="JPWR1">
+      <value>XT60PW-M</value>
+      <footprint>dragon_mobile:XT60PWM</footprint>
+      <datasheet>https://www.tme.eu/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf</datasheet>
+      <fields>
+        <field name="Description">Socket; DC supply; XT60; male; PIN: 2; on PCBs; THT; Colour: yellow</field>
+        <field name="Height">8.4</field>
+        <field name="Manufacturer_Name">Changzou Amass Elec</field>
+        <field name="Manufacturer_Part_Number">XT60PW-M</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="XT60PW-M" description="Socket; DC supply; XT60; male; PIN: 2; on PCBs; THT; Colour: yellow"/>
+      <property name="Description" value="Socket; DC supply; XT60; male; PIN: 2; on PCBs; THT; Colour: yellow"/>
+      <property name="Height" value="8.4"/>
+      <property name="Manufacturer_Name" value="Changzou Amass Elec"/>
+      <property name="Manufacturer_Part_Number" value="XT60PW-M"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b32d4a-d773-475c-bc43-9e86d42bf61a</tstamps>
     </comp>
     <comp ref="LED1">
       <value>LTST-C190KFKT</value>
@@ -435,7 +342,7 @@
         <field name="Mouser Part Number">859-LTST-C190KFKT</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
       </fields>
-      <libsource lib="" part="LTST-C190KFKT_3" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
+      <libsource lib="dragon_mobile" part="LTST-C190KFKT" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Description" value="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Height" value="0.8"/>
       <property name="Mouser Part Number" value="859-LTST-C190KFKT"/>
@@ -459,7 +366,7 @@
         <field name="Mouser Part Number">859-LTST-C190KFKT</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
       </fields>
-      <libsource lib="" part="LTST-C190KFKT_7" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
+      <libsource lib="dragon_mobile" part="LTST-C190KFKT" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Description" value="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Height" value="0.8"/>
       <property name="Mouser Part Number" value="859-LTST-C190KFKT"/>
@@ -483,7 +390,7 @@
         <field name="Mouser Part Number">859-LTST-C190KFKT</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
       </fields>
-      <libsource lib="" part="LTST-C190KFKT_5" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
+      <libsource lib="dragon_mobile" part="LTST-C190KFKT" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Description" value="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Height" value="0.8"/>
       <property name="Mouser Part Number" value="859-LTST-C190KFKT"/>
@@ -507,7 +414,7 @@
         <field name="Mouser Part Number">859-LTST-C190KFKT</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
       </fields>
-      <libsource lib="" part="LTST-C190KFKT_6" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
+      <libsource lib="dragon_mobile" part="LTST-C190KFKT" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Description" value="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Height" value="0.8"/>
       <property name="Mouser Part Number" value="859-LTST-C190KFKT"/>
@@ -531,7 +438,7 @@
         <field name="Mouser Part Number">859-LTST-C190KFKT</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
       </fields>
-      <libsource lib="" part="LTST-C190KFKT_2" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
+      <libsource lib="dragon_mobile" part="LTST-C190KFKT" description="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Description" value="LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package"/>
       <property name="Height" value="0.8"/>
       <property name="Mouser Part Number" value="859-LTST-C190KFKT"/>
@@ -578,7 +485,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -602,7 +509,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -626,7 +533,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -650,7 +557,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -674,7 +581,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -698,7 +605,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -722,7 +629,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -746,7 +653,7 @@
         <field name="Mouser Part Number">942-IRF4905PBF</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
+      <libsource lib="dragon_mobile" part="IRF4905PBF" description="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Description" value="P-channel MOSFET,IRF4905 64A 55V"/>
       <property name="Height" value="4.69"/>
       <property name="Mouser Part Number" value="942-IRF4905PBF"/>
@@ -759,81 +666,216 @@
       <tstamps>8c626ce6-fca1-404c-a30c-388c5ff0d4b9</tstamps>
     </comp>
     <comp ref="R1">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9e0ec929-3466-4081-9b10-ebb8b1b3a14f</tstamps>
     </comp>
     <comp ref="RL1">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>533e81ce-b727-401e-b803-c4209bfb6a08</tstamps>
     </comp>
     <comp ref="RL2">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>20bccd78-cf23-4266-bfd8-2c1e7e499985</tstamps>
     </comp>
     <comp ref="RL3">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>84f3d087-c394-4782-98f0-a1cf0699a879</tstamps>
     </comp>
     <comp ref="RL4">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a52df7a8-ac20-45e9-9e7c-9c97897079e3</tstamps>
     </comp>
     <comp ref="RL5">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a43a5e39-6182-48f9-8b81-39862fcb3fce</tstamps>
     </comp>
     <comp ref="RL6">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>50a321db-225e-4121-8224-f45453940e84</tstamps>
     </comp>
     <comp ref="RL7">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cc1968eb-9816-413f-9bd0-9592292bdcf6</tstamps>
     </comp>
     <comp ref="RL8">
-      <value>1k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <value>1k5</value>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SDR10EZPJ152" description="Thick Film Resistors - SMD, 600V overload voltage"/>
+      <property name="Description" value="Thick Film Resistors - SMD"/>
+      <property name="Height" value="0.65"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ152"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ152"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -841,7 +883,7 @@
     </comp>
     <comp ref="RP1">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -850,7 +892,7 @@
     </comp>
     <comp ref="RP2">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -859,7 +901,7 @@
     </comp>
     <comp ref="RP3">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -868,7 +910,7 @@
     </comp>
     <comp ref="RP4">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -877,7 +919,7 @@
     </comp>
     <comp ref="RP5">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -886,7 +928,7 @@
     </comp>
     <comp ref="RP6">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -895,7 +937,7 @@
     </comp>
     <comp ref="RP7">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -904,7 +946,7 @@
     </comp>
     <comp ref="RP8">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>dragon_mobile:RESC2012X65N</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
@@ -947,7 +989,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_7" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -971,7 +1013,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_6" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -995,7 +1037,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_5" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -1019,7 +1061,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_2" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -1043,7 +1085,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_1" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -1067,7 +1109,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_3" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -1091,7 +1133,7 @@
         <field name="Mouser Part Number">511-SM6T30AY</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
       </fields>
-      <libsource lib="" part="SM6T30AY_4" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
       <property name="Height" value="2.65"/>
       <property name="Mouser Part Number" value="511-SM6T30AY"/>
@@ -1127,285 +1169,60 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e9feb08-284e-450e-b0f5-20bdc79d8989</tstamps>
     </comp>
+    <comp ref="TVSP2">
+      <value>SM6T30AY</value>
+      <footprint>dragon_mobile:SMBJ36CATR</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</datasheet>
+      <fields>
+        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">SM6T30AY</field>
+        <field name="Mouser Part Number">511-SM6T30AY</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
+      </fields>
+      <libsource lib="dragon_mobile" part="SM6T30AY" description="STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <property name="Description" value="STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA"/>
+      <property name="Height" value="2.65"/>
+      <property name="Mouser Part Number" value="511-SM6T30AY"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="SM6T30AY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="solid_state_relays_24v.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1723c700-82a2-4d74-bb44-6a373f565bf4</tstamps>
+    </comp>
   </components>
   <libparts>
-    <libpart lib="" part="LTST-C190KFKT_2">
-      <description>LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</docs>
-      <fields>
-        <field name="Reference">LED</field>
-        <field name="Value">LTST-C190KFKT_2</field>
-        <field name="Footprint">dragon_mobile:LEDC1607X80N</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</field>
-        <field name="Description">LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</field>
-        <field name="Height">0.8</field>
-        <field name="Mouser Part Number">859-LTST-C190KFKT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
-        <field name="Manufacturer_Name">Lite-On</field>
-        <field name="Manufacturer_Part_Number">LTST-C190KFKT</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="LTST-C190KFKT_3">
-      <description>LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</docs>
-      <fields>
-        <field name="Reference">LED</field>
-        <field name="Value">LTST-C190KFKT_3</field>
-        <field name="Footprint">dragon_mobile:LEDC1607X80N</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</field>
-        <field name="Description">LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</field>
-        <field name="Height">0.8</field>
-        <field name="Mouser Part Number">859-LTST-C190KFKT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
-        <field name="Manufacturer_Name">Lite-On</field>
-        <field name="Manufacturer_Part_Number">LTST-C190KFKT</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="LTST-C190KFKT_5">
-      <description>LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</docs>
-      <fields>
-        <field name="Reference">LED</field>
-        <field name="Value">LTST-C190KFKT_5</field>
-        <field name="Footprint">dragon_mobile:LEDC1607X80N</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</field>
-        <field name="Description">LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</field>
-        <field name="Height">0.8</field>
-        <field name="Mouser Part Number">859-LTST-C190KFKT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
-        <field name="Manufacturer_Name">Lite-On</field>
-        <field name="Manufacturer_Part_Number">LTST-C190KFKT</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="LTST-C190KFKT_6">
-      <description>LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</docs>
-      <fields>
-        <field name="Reference">LED</field>
-        <field name="Value">LTST-C190KFKT_6</field>
-        <field name="Footprint">dragon_mobile:LEDC1607X80N</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</field>
-        <field name="Description">LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</field>
-        <field name="Height">0.8</field>
-        <field name="Mouser Part Number">859-LTST-C190KFKT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
-        <field name="Manufacturer_Name">Lite-On</field>
-        <field name="Manufacturer_Part_Number">LTST-C190KFKT</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="LTST-C190KFKT_7">
-      <description>LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</docs>
-      <fields>
-        <field name="Reference">LED</field>
-        <field name="Value">LTST-C190KFKT_7</field>
-        <field name="Footprint">dragon_mobile:LEDC1607X80N</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-305/79294.pdf</field>
-        <field name="Description">LED,SMD,0603,Orange,60mcd,130deg Lite-On LTST-C190KFKT Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package</field>
-        <field name="Height">0.8</field>
-        <field name="Mouser Part Number">859-LTST-C190KFKT</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Lite-On/LTST-C190KFKT?qs=6QHXI9jVcTyVErVIqD1vhg%3D%3D</field>
-        <field name="Manufacturer_Name">Lite-On</field>
-        <field name="Manufacturer_Part_Number">LTST-C190KFKT</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_1">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_1</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_2">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_2</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_3">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_3</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_4">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_4</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_5">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_5</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_6">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_6</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="SM6T30AY_7">
-      <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">SM6T30AY_7</field>
-        <field name="Footprint">dragon_mobile:SMBJ36CATR</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</field>
-        <field name="Description">STMicroelectronics SM6T15AY Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA</field>
-        <field name="Height">2.65</field>
-        <field name="Mouser Part Number">511-SM6T30AY</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/STMicroelectronics/SM6T30AY?qs=94V4QatVK%252BenipaHouN2sw%3D%3D</field>
-        <field name="Manufacturer_Name">STMicroelectronics</field>
-        <field name="Manufacturer_Part_Number">SM6T30AY</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Connector_Amass_XT" part="XT60-M">
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">XT60-M</field>
-        <field name="Footprint">AMASS_XT60-M</field>
-        <field name="MANUFACTURER">AMASS</field>
-        <field name="PARTREV">V1.2</field>
-      </fields>
-      <pins>
-        <pin num="1" name="-" type="passive"/>
-        <pin num="2" name="+" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
       <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
-      <docs>~</docs>
+      <docs>www.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_pv_wtb.pdf</docs>
       <footprints>
         <fp>Connector*:*_2x??_*</fp>
       </footprints>
       <fields>
-        <field name="Reference">J</field>
+        <field name="Reference">JCNTL1</field>
         <field name="Value">Conn_02x06_Odd_Even</field>
-        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_IDC:IDC-Header_2x06_P2.54mm_Horizontal</field>
+        <field name="Datasheet">www.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_pv_wtb.pdf</field>
+        <field name="MPN">78207-1012HLF</field>
+        <field name="Manufacturer">Amphenol FCI</field>
+        <field name="Mouser Part Number">649-78207-112HLF</field>
       </fields>
       <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-        <pin num="4" name="Pin_4" type="passive"/>
-        <pin num="5" name="Pin_5" type="passive"/>
-        <pin num="6" name="Pin_6" type="passive"/>
-        <pin num="7" name="Pin_7" type="passive"/>
-        <pin num="8" name="Pin_8" type="passive"/>
-        <pin num="9" name="Pin_9" type="passive"/>
-        <pin num="10" name="Pin_10" type="passive"/>
-        <pin num="11" name="Pin_11" type="passive"/>
-        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="1" name="Pin_1" type="power_in"/>
+        <pin num="2" name="Pin_2" type="power_in"/>
+        <pin num="3" name="Pin_3" type="open_collector"/>
+        <pin num="4" name="Pin_4" type="open_collector"/>
+        <pin num="5" name="Pin_5" type="open_collector"/>
+        <pin num="6" name="Pin_6" type="open_collector"/>
+        <pin num="7" name="Pin_7" type="open_collector"/>
+        <pin num="8" name="Pin_8" type="open_collector"/>
+        <pin num="9" name="Pin_9" type="open_collector"/>
+        <pin num="10" name="Pin_10" type="open_collector"/>
+        <pin num="11" name="Pin_11" type="power_in"/>
+        <pin num="12" name="Pin_12" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="R_Small">
@@ -1455,27 +1272,6 @@
         <pin num="1" name="1" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="SamacSys_Parts" part="IRF4905PBF">
-      <description>P-channel MOSFET,IRF4905 64A 55V</description>
-      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</docs>
-      <fields>
-        <field name="Reference">Q</field>
-        <field name="Value">IRF4905PBF</field>
-        <field name="Footprint">TO254P469X1042X1967-3P</field>
-        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</field>
-        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
-        <field name="Height">4.69</field>
-        <field name="Mouser Part Number">942-IRF4905PBF</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
-        <field name="Manufacturer_Name">Infineon</field>
-        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-        <pin num="3" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="dragon_mobile" part="1190297">
       <description>2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole</description>
       <docs>https://www.phoenixcontact.com/online/portal/ae?uri=pxc-oc-itemdetail:pid=1190297&amp;library=aeen&amp;tab=1</docs>
@@ -1496,6 +1292,27 @@
         <pin num="2" name="2" type="passive"/>
         <pin num="3" name="3" type="passive"/>
         <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dragon_mobile" part="IRF4905PBF">
+      <description>P-channel MOSFET,IRF4905 64A 55V</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF4905PBF</field>
+        <field name="Footprint">dragon_mobile:TO254P469X1042X1967-3P</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e52aa5f51fe2980ce3912b85b4d53dd4.pdf</field>
+        <field name="Description">P-channel MOSFET,IRF4905 64A 55V</field>
+        <field name="Height">4.69</field>
+        <field name="Mouser Part Number">942-IRF4905PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/Infineon-IR/IRF4905PBF?qs=9%252BKlkBgLFf39l0HsWdxvdw%3D%3D</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRF4905PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="dragon_mobile" part="LTST-C190KFKT">
@@ -1536,6 +1353,26 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dragon_mobile" part="SDR10EZPJ152">
+      <description>Thick Film Resistors - SMD, 600V overload voltage</description>
+      <docs>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">SDR10EZPJ152</field>
+        <field name="Footprint">dragon_mobile:RESC2012X65N</field>
+        <field name="Datasheet">https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf</field>
+        <field name="Description">Thick Film Resistors - SMD</field>
+        <field name="Height">0.65</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ152</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ152</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ152?qs=MyNHzdoqoQKBvqImLWLCnQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="dragon_mobile" part="SM6T30AY">
       <description>STMicroelectronics SM6T15AY Unidirectional TVS Diode, 600W peak, 2-Pin DO-214AA</description>
       <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1845923.pdf</docs>
@@ -1556,11 +1393,26 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dragon_mobile" part="XT60PW-M">
+      <description>Socket; DC supply; XT60; male; PIN: 2; on PCBs; THT; Colour: yellow</description>
+      <docs>https://www.tme.eu/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">XT60PW-M</field>
+        <field name="Footprint">dragon_mobile:XT60PWM</field>
+        <field name="Datasheet">https://www.tme.eu/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf</field>
+        <field name="Description">Socket; DC supply; XT60; male; PIN: 2; on PCBs; THT; Colour: yellow</field>
+        <field name="Height">8.4</field>
+        <field name="Manufacturer_Name">Changzou Amass Elec</field>
+        <field name="Manufacturer_Part_Number">XT60PW-M</field>
+      </fields>
+      <pins>
+        <pin num="N" name="N" type="power_out"/>
+        <pin num="P" name="P" type="power_out"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
-    <library logical="Connector_Amass_XT">
-      <uri>C:/Users/mgcum/Documents/KiCad/6.0/symbols/Connector_Amass_XT.kicad_sym</uri>
-    </library>
     <library logical="Connector_Generic">
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
     </library>
@@ -1573,25 +1425,15 @@
     <library logical="Mechanical">
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
-    <library logical="SamacSys_Parts">
-      <uri>C:/Users/mgcum/Documents/Library_loader/SamacSys_Parts.kicad_sym</uri>
-    </library>
     <library logical="dragon_mobile">
       <uri>C:/repos/github/Dragonrun1/dragon_mobile/shared_components/KiCAD/symbols/dragon_mobile.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
     <net code="1" name="+BATT">
-      <node ref="HQ1" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ2" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ3" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ4" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ5" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ6" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ7" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HQ8" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="JCNTL1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="JCNTL1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JCNTL1" pin="1" pinfunction="Pin_1" pintype="power_in"/>
+      <node ref="JCNTL1" pin="2" pinfunction="Pin_2" pintype="power_in"/>
+      <node ref="JPWR1" pin="P" pinfunction="P" pintype="power_out"/>
       <node ref="Q1" pin="2" pintype="passive"/>
       <node ref="Q2" pin="2" pintype="passive"/>
       <node ref="Q3" pin="2" pintype="passive"/>
@@ -1617,55 +1459,52 @@
       <node ref="TVS7" pin="1" pintype="passive"/>
       <node ref="TVS8" pin="1" pintype="passive"/>
       <node ref="TVSP1" pin="1" pintype="passive"/>
+      <node ref="TVSP2" pin="1" pintype="passive"/>
     </net>
     <net code="2" name="/a1">
-      <node ref="JCNTL1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="JCNTL1" pin="5" pinfunction="Pin_5" pintype="open_collector"/>
       <node ref="Q1" pin="1" pintype="passive"/>
       <node ref="RP1" pin="1" pintype="passive"/>
     </net>
     <net code="3" name="/a2">
-      <node ref="JCNTL1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="JCNTL1" pin="6" pinfunction="Pin_6" pintype="open_collector"/>
       <node ref="Q2" pin="1" pintype="passive"/>
       <node ref="RP2" pin="1" pintype="passive"/>
     </net>
     <net code="4" name="/a3">
-      <node ref="JCNTL1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="JCNTL1" pin="3" pinfunction="Pin_3" pintype="open_collector"/>
       <node ref="Q3" pin="1" pintype="passive"/>
       <node ref="RP3" pin="1" pintype="passive"/>
     </net>
     <net code="5" name="/a4">
-      <node ref="JCNTL1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="JCNTL1" pin="4" pinfunction="Pin_4" pintype="open_collector"/>
       <node ref="Q4" pin="1" pintype="passive"/>
       <node ref="RP4" pin="1" pintype="passive"/>
     </net>
     <net code="6" name="/a5">
-      <node ref="JCNTL1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="JCNTL1" pin="10" pinfunction="Pin_10" pintype="open_collector"/>
       <node ref="Q5" pin="1" pintype="passive"/>
       <node ref="RP5" pin="1" pintype="passive"/>
     </net>
     <net code="7" name="/a6">
-      <node ref="JCNTL1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="JCNTL1" pin="9" pinfunction="Pin_9" pintype="open_collector"/>
       <node ref="Q6" pin="1" pintype="passive"/>
       <node ref="RP6" pin="1" pintype="passive"/>
     </net>
     <net code="8" name="/a7">
-      <node ref="JCNTL1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="JCNTL1" pin="8" pinfunction="Pin_8" pintype="open_collector"/>
       <node ref="Q7" pin="1" pintype="passive"/>
       <node ref="RP7" pin="1" pintype="passive"/>
     </net>
     <net code="9" name="/a8">
-      <node ref="JCNTL1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="JCNTL1" pin="7" pinfunction="Pin_7" pintype="open_collector"/>
       <node ref="Q8" pin="1" pintype="passive"/>
       <node ref="RP8" pin="1" pintype="passive"/>
     </net>
     <net code="11" name="GNDPWR">
-      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="HC1" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="JCNTL1" pin="11" pinfunction="Pin_11" pintype="passive"/>
-      <node ref="JCNTL1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="JCNTL1" pin="11" pinfunction="Pin_11" pintype="power_in"/>
+      <node ref="JCNTL1" pin="12" pinfunction="Pin_12" pintype="power_in"/>
+      <node ref="JPWR1" pin="N" pinfunction="N" pintype="power_out"/>
       <node ref="LED1" pin="1" pintype="passive"/>
       <node ref="LED2" pin="1" pintype="passive"/>
       <node ref="LED3" pin="1" pintype="passive"/>
@@ -1676,45 +1515,46 @@
       <node ref="LED8" pin="1" pintype="passive"/>
       <node ref="LEDP1" pin="1" pintype="passive"/>
       <node ref="TVSP1" pin="2" pintype="passive"/>
+      <node ref="TVSP2" pin="2" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(LED1-Pad2)">
+    <net code="12" name="Net-(JP1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(LED1-Pad2)">
       <node ref="LED1" pin="2" pintype="passive"/>
       <node ref="RL1" pin="2" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(LED2-Pad2)">
+    <net code="14" name="Net-(LED2-Pad2)">
       <node ref="LED2" pin="2" pintype="passive"/>
       <node ref="RL2" pin="2" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(LED3-Pad2)">
+    <net code="15" name="Net-(LED3-Pad2)">
       <node ref="LED3" pin="2" pintype="passive"/>
       <node ref="RL3" pin="2" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(LED4-Pad2)">
+    <net code="16" name="Net-(LED4-Pad2)">
       <node ref="LED4" pin="2" pintype="passive"/>
       <node ref="RL4" pin="2" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(LED5-Pad2)">
+    <net code="17" name="Net-(LED5-Pad2)">
       <node ref="LED5" pin="2" pintype="passive"/>
       <node ref="RL5" pin="2" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(LED6-Pad2)">
+    <net code="18" name="Net-(LED6-Pad2)">
       <node ref="LED6" pin="2" pintype="passive"/>
       <node ref="RL6" pin="2" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(LED7-Pad2)">
+    <net code="19" name="Net-(LED7-Pad2)">
       <node ref="LED7" pin="2" pintype="passive"/>
       <node ref="RL7" pin="2" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(LED8-Pad2)">
+    <net code="20" name="Net-(LED8-Pad2)">
       <node ref="LED8" pin="2" pintype="passive"/>
       <node ref="RL8" pin="2" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(LEDP1-Pad2)">
+    <net code="21" name="Net-(LEDP1-Pad2)">
       <node ref="LEDP1" pin="2" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
-    </net>
-    <net code="21" name="Net-(R1-Pad2)">
-      <node ref="R1" pin="2" pintype="passive"/>
     </net>
     <net code="22" name="OUT1">
       <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
